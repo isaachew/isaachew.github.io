@@ -1,2 +1,11 @@
-h1,h2{text-align:center;background:#12345678}
-h1,h2,p{font-family:Tahoma}
+h1,h2{
+    text-align:center;
+    background:#999999;
+}
+p{
+    margin:10px
+}
+body{
+    font-family:Helvetica;
+    margin:0
+}
