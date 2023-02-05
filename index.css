@@ -3,9 +3,15 @@ h1,h2{
     background:#999999;
 }
 p{
-    margin:10px
+    padding: 0 5%;
 }
 body{
     font-family:Helvetica;
     margin:0
+}
+
+.expand2{
+    text-align:center;
+    display:block;
+    background:#ddd
 }
